@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarinaCP-prog
 - 👀 I’m interested in coding, AI and robotics
-- 🌱 I’m currently stuying a BSc in Computing and IT
+- 🌱 I’m currently studying a BSc in Computing and IT
 - 💞️ I’m looking to collaborate on different kind of projects
 - 📫 How to reach me: LinkedIn, github, mail
 
